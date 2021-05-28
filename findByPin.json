@@ -1,4 +1,4 @@
-var gnctd_covid_facilities_data = {
+{
   "Galaxy Hospital": {
     "type": "Pvt",
     "facility_type": "Hospital",
@@ -3012,4 +3012,4 @@ var gnctd_covid_facilities_data = {
     "longitude": "77.08753",
     "location": "https://www.google.co.in/maps/place/Divya+Prastha+Hospital/@28.5862209,77.0853916,17z/data=!3m1!4b1!4m5!3m4!1s0x390d1b689a186171:0x7b6b2bafb4c2d26a!8m2!3d28.5862209!4d77.0875803?hl=en&authuser=0"
   }
-};
+}
